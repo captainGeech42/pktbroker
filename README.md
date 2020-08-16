@@ -1,5 +1,7 @@
 # pktbroker
 
+[![Build Status](https://travis-ci.com/captainGeech42/pktbroker.svg?branch=master)](https://travis-ci.com/captainGeech42/pktbroker)
+
 A minimal packet broker for lab purposes
 
 Planned Features:

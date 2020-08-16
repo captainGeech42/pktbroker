@@ -34,10 +34,11 @@
 # Autoconf
 # https://stackoverflow.com/a/16404209
 **/Makefile
-**/Makefile.in
+# **/Makefile.in
 /aclocal.m4
 /autom4te.cache/
 /config.*
+# /configure
 /m4/
 **/stamp-h?
 .deps/
