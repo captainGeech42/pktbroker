@@ -30,3 +30,22 @@
 *.exe
 *.out
 *.app
+
+# Autoconf
+# https://stackoverflow.com/a/16404209
+**/Makefile
+**/Makefile.in
+/aclocal.m4
+/autom4te.cache/
+/config.*
+/configure
+/m4/
+**/stamp-h?
+.deps/
+.dirstamp
+*.o
+*~
+inc/**.hpp
+
+# Build output
+src/pktbroker
