@@ -3,4 +3,4 @@ script: ./configure && make
 os: linux
 dist: bionic
 before_install:
-  - sudo apt-get -y libpcap-dev
+  - sudo apt-get install -y libpcap-dev
