@@ -1,0 +1,6 @@
+language: c++
+script: ./configure && make
+os: linux
+dist: bionic
+before_install:
+  - sudo apt-get -y libpcap-dev
