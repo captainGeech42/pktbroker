@@ -1,4 +1,4 @@
-language: c++
+language: cpp
 script: 
   - ls -al .
   - ./configure

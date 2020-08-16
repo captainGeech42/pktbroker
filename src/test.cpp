@@ -1,4 +1,5 @@
 #include <iostream>
+#include <pcap.h>
 
 #include "config.hpp"
 
